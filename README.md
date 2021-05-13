@@ -39,6 +39,19 @@
 
 </td><td valign="top" width="33%">
 
+const Rayane = {
+    info: {
+        name: "Rayane",
+        from: "Belgium",
+        age: "13",
+    },
+    reseau: {
+        discord: "rayanee#0212",
+        instagram: "rayanee.detp",
+        twitter: "rayaneuh212",
+        dsc.bio: "rayaneuh212",
+    languages: ["Python", "HTML", "CSS", "JavaScript", "C++"]
+};
 
 
 ### Backend  
