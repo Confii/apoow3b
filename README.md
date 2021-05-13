@@ -39,6 +39,7 @@
 
 </td><td valign="top" width="33%">
 
+```js
 const Rayane = {
     info: {
         name: "Rayane",
@@ -52,7 +53,7 @@ const Rayane = {
         dsc.bio: "rayaneuh212",
     languages: ["Python", "HTML", "CSS", "JavaScript", "C++"]
 };
-
+```
 
 ### Backend  
 <div align="center">  
