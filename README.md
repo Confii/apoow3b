@@ -38,22 +38,9 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-```js
-const Rayane = {
-    info: {
-        name: "Rayane",
-        from: "Belgium",
-        age: "13",
-    },
-    reseau: {
-        discord: "rayanee#0212",
-        instagram: "rayanee.detp",
-        twitter: "rayaneuh212",
-        dsc.bio: "rayaneuh212",
-    languages: ["Python", "HTML", "CSS", "JavaScript", "C++"]
-};
-```
+  
+  
+  
 
 ### Backend  
 <div align="center">  
@@ -83,4 +70,4 @@ const Rayane = {
 
 ---
 
-![Banner]( https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
+![Banner](https://i.pinimg.com/originals/4b/70/08/4b70084a3a653c4d0f2ab8999b34d7ad.gif)
