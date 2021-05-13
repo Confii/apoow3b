@@ -70,4 +70,4 @@
 
 ---
 
-![Banner](https://i.pinimg.com/originals/4b/70/08/4b70084a3a653c4d0f2ab8999b34d7ad.gif)
+![Banner](https://i.pinimg.com/originals/8a/78/53/8a7853a39f37df16dc5ccff619e6c654.gif)
