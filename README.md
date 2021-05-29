@@ -11,7 +11,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/khddev/count.svg" />
+  <img src="https://profile-counter.glitch.me/apoow3b/count.svg" />
 </p>
 
 ---
@@ -71,18 +71,3 @@
 ---
 
 ![Banner](https://i.pinimg.com/originals/8a/78/53/8a7853a39f37df16dc5ccff619e6c654.gif)
-
-
- # Top 5 Badges That Will Take Your GitHub Repository to the Next Level
- ## 1. GitHub Stats
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=apoow3b&show_icons=true)
- ## 2. Most Used Languages
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=apoow3b&theme=blue-green)
- ## 3. Contributors Badge
- ![Your Repository's Stats](https://contrib.rocks/image?repo=apoow3b/Python)
- ## 4. Random Joke Generator
- ![Jokes Card](https://readme-jokes.vercel.app/api)
- ## 5. Profile View Counter
- ![Profile View Counter](https://komarev.com/ghpvc/?username=apoow3b)
- ### Repository View Counter - HITS
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/apoow3b/Python)
