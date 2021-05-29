@@ -2,7 +2,7 @@
 
 <img align="right" alt="Apoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=apoow3b&theme=tokyonight&show_icons=true&hide_border=true" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=apoow3b&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=apoow3b&theme=tokyonight)
 - 💻 I am a young student and I live in France.
 - 🔩 I love developed
 
